@@ -1,0 +1,17 @@
+{
+  "name": "kursts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "@types/angular": "^1.6.57",
+    "node": "^13.8.0",
+    "tslint": "^6.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
